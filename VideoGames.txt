@@ -1,0 +1,10 @@
+1256,Call_Of_Duty,60,5,21
+4567,F1,15,5,5
+6791,Fifa25,40,3,2
+0299,Payday3,40,4,1
+1872,Battlefield2042,20,5,13
+1585,Rocket League,20,45
+1126,Grand Theft Auto 5,15,55
+9492,PUBG,5,100
+1712,Insurgency,20,10
+7147,PAYDAY2,50,20
