@@ -1,4 +1,4 @@
-﻿namespace VideoGameShop;
+﻿namespace GameShop;
 
 public class randomNumbers
 {
@@ -14,4 +14,3 @@ public class randomNumbers
         return random.Next(1000, 9999);
     }
 }
-
