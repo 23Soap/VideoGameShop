@@ -70,13 +70,13 @@ class Program
 
                             if (gameDetails[0] == itemNumberSearch)
                             {
-                                Console.WriteLine($"Game found:\nID: {gameDetails[0], -5}, Name: {gameDetails[1]}, Price: {gameDetails[2]}, Stock Number: {gameDetails[3]}");
+                                Console.WriteLine($"Game found:\nID: {gameDetails[0]}, Name: {gameDetails[1]}, Price: {gameDetails[2]}, Stock Number: {gameDetails[3]}");
                                 gameFounded = true;
                                 break;
-                            }else
+                            }
+                            else
                             {
-                                Console.WriteLine($"Game not found");
-                                break;
+                                Console.WriteLine("Game not found");
                             }
                         }
 
