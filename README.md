@@ -17,11 +17,3 @@ Search for Game: Look up a game by its item number to view its details, includin
 
 Random Item Number Generation: Automatically generates a unique item number for each game added.
 
-Future Improvements
-
-
-Implement data validation for user inputs.
-
-Add a feature to update or delete games.
-
-Enhance the user interface for better usability
